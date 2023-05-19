@@ -1,25 +1,18 @@
-# SurelyNotFlappyBirdie
+# SurelyNotFlappyBirdie 🐦🎮
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+SurelyNotFlappyBirdie is a game made in Unity inspired by the classic Flappy Bird game.
 
-## Description
-SurelyNotFlappyBirdie is a fun and challenging game inspired by the classic Flappy Bird. It is built using Unity game engine and features addictive gameplay mechanics.
+## Screenshots 📷
 
-## Credits
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
 
-### Art
-- Artwork and Game Assets: [Artist Name](https://github.com/artistname)
-- Background Illustrations: [Illustrator Name](https://github.com/illustratorname)
+## Credits 👏
 
-### Coding
-- Game Development: [Your Name](https://github.com/yourname)
-- Additional Programming: [Contributor Name](https://github.com/contributorname)
+### Art 🎨
 
-## Screenshots
+- Artwork by [Artist Name](https://github.com/artistname)
 
-### Gameplay
+### Coding 💻
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-
+- Game programming by [Programmer Name](https://github.com/programmername)

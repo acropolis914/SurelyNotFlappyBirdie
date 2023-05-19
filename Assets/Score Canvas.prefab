@@ -194,5 +194,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c61e2bbf1745c746b33102eaf2726c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasToShow: {fileID: 0}
+  canvasend: {fileID: 6498855891384592024, guid: 0f7596d006792494e91aea31266e3ac7, type: 3}
   scoreThreshold: 3
